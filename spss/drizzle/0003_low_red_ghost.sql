@@ -1,0 +1,2 @@
+ALTER TABLE `auth_sessions` ADD `temporary_proof` text;--> statement-breakpoint
+CREATE UNIQUE INDEX `auth_users_active_designer_unique` ON `auth_users` (`designer`) WHERE "auth_users"."role"='designer' AND "auth_users"."enabled"=1;

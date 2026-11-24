@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+var/
+backups/
+logs/
+migration/*.json
+!migration/example*.json
+*.sqlite*

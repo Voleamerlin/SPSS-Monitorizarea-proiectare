@@ -1,0 +1,28 @@
+{
+  "source": "Date demonstrative sintetice",
+  "projects": [
+    {
+      "id": "p-001",
+      "name": "Demo · Portal de programări",
+      "designer": "Proiectant Demo A",
+      "manager": "Manager Demo A",
+      "status": "Activ"
+    },
+    {
+      "id": "p-002",
+      "name": "Demo · Biblioteca de documente",
+      "designer": "Proiectant Demo B",
+      "manager": "Manager Demo B",
+      "status": "Inactiv"
+    },
+    {
+      "id": "p-003",
+      "name": "Demo · Registrul de solicitări",
+      "designer": "Proiectant Demo A",
+      "manager": "Manager Demo B",
+      "status": "Activ"
+    }
+  ],
+  "designers": ["Proiectant Demo A", "Proiectant Demo B"],
+  "managers": ["Manager Demo A", "Manager Demo B"]
+}
